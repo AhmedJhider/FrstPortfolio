@@ -1,0 +1,15 @@
+@media (max-width: 1200px){
+    h1{
+        font-weight: lighter;
+        margin: 50px 0 50px 25px;
+    }
+    .intro{
+        margin: 0 20% 5% 10%;
+    }
+    .header{
+        background-color: whitesmoke;
+        padding: 20px 75px 20px 75px;
+    
+    }
+    
+}
