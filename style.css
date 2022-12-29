@@ -64,7 +64,7 @@ h1{
 #selection_image img{
     opacity: 1;
     position: fixed;
-    width: 52%;
+    width: 48%;
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
