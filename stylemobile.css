@@ -12,4 +12,29 @@
     
     }
     
+    .left{
+        height: 25px;
+        position: fixed;
+        top: 50%;
+        margin-left: 15px;
+        transform: translate(0,-50%);
+    }
+    .right{
+        position: fixed;
+        height: 25px;
+        left: calc(100% - 15px);
+        transform: translate(-100%,-50%);
+        top: 50%;
+    }
+    
+    #selection_image img{
+        opacity: 1;
+        position: fixed;
+        width: 75%;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+        box-shadow: 0px 0px 10px black;
+    
+    }
 }
